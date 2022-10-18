@@ -1,6 +1,5 @@
 # Node & Express Demo App for Azure DevOps
 
-> Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
 
 This is a Node and Express web application used to demonstrate CI/CD with Azure DevOps. You can clone this repo and use it within Azure DevOps to build, test, and release to an Azure App Service web app.
 
@@ -40,20 +39,3 @@ Click the button below to deploy an Azure Web App for Linux. This will create a 
 
 ## Deploy the App Continuously with Azure DevOps:
 Follow my step-by-step guide: [Build Your First CI/CD Pipeline using Azure DevOps](https://mikepfeiffer.io/azure-devops-pipeline.html)
-
-This walkthrough contains all the steps you should follow to fork this repo and build your own automated build and release pipeline.
-
-## App Info
-
-### Author
-
-Mike Pfeiffer
-[@mike_pfeiffer](https://twitter.com/mike_pfeiffer)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the Apache License 2.0
